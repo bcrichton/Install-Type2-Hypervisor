@@ -35,9 +35,57 @@ Step 2: Install Oracle VM VirtualBox onto Computer: <br/>
 <br />
 <br />
   
+<p align="left">
+Step 3: Download .iso File: <br/>
+  - https://releases.ubuntu.com/20.04.1/ubuntu-20.04.1-desktop-amd64.iso?</br></br>
+
+<p align="left">
+Step 4: Open Oracle VM VirtualBox Manager: <br/>
+  - Click the New button.</br>
+  - Give your operating system a name.</br>
+  - Set the file path to where you want the VM to be saved to.</br>
+  - Make sure the type and version of the VM that you are creating match the .iso file that you are going to be using.</br>
+  - Press next.</b>
+
+<p align="center">
+<img src="https://i.imgur.com/2kGTR8S.png" height="60%" width="60%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
 
 
-  
+<p align="left">
+Step 5: Allocate Memory: <br/>
+  - Type in the amount of memory that you want the VM to have.</br>
+  - You can adjust the slider, or you can type directly into the text box.</br>
+  - For this case, we are just going to leave it at the default, whenever you have selected the amount of memory that you want allocated, then click Next.</br>
+
+<p align="center">
+<img src="https://i.imgur.com/4aWPVn9.png" height="50%" width="50%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
+
+
+<p align="left">
+Step 6: Hard Disk: <br/>
+  - Make sure that Create a virtual hard disk is bubbled in, then click Create.</br>
+
+<p align="center">
+<img src="https://i.imgur.com/kYLHT09.png" height="50%" width="50%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
+
+
+<p align="left">
+Step 7: Hard Disk File Type: <br/>
+  - Select VDI, then click Next.</br>
+
+<p align="center">
+<img src="https://i.imgur.com/ebFSjEp.png" height="50%" width="50%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
+
+
+
 </p>
 
 <!--
