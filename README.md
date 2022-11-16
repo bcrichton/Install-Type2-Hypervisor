@@ -85,7 +85,62 @@ Step 7: Hard Disk File Type: <br/>
 <br />
 
 
+<p align="left">
+Step 8: Storage on Physical Hard Disk: <br/>
+  - Select whether you want the disk space to be dynamically allocated, or if you want to have a fixed size.</br>
+  - For this example, we are going to use dynamically allocated.</br>
+  - Selecting dynamically allocated will use up only the amount of storage that is needed in the VM. A fixed size will give you a certain amount of storage to use.</br>
+  - Example: if you install a 3GB file in the VM, it will take up only 3GB of space on your hard disk.
+    If you set a fixed size, you will give the VM only, say, 10GB of storage capacity to work with.</br>
 
+<p align="center">
+<img src="https://i.imgur.com/U79HItn.png" height="50%" width="50%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
+  
+  
+<p align="left">
+Step 9: Click Next, twice.<br/><br/>
+  
+
+<p align="left">
+Step 10: Click the Settings button, then on the side bar, click Storage.<br/><br/>
+  
+<p align="left">
+Step 11: Import .iso file:<br/>
+  - Under Controller: IDE, click the empty disk.</br>
+  - To the right, there is a drop down menu right next the words Optical drive.</br>
+  - To the right of the drop down menu, there is a disk icon. Click this icon, then click Choose a disk file and locate the .iso file that you downloaded in the beginning of the tutorial.</br>
+  - Click OK </br><br/>
+
+
+<p align="left">
+Step 12: Start the VM<br/>
+  - Click the Start icon.</br>
+  - The VM will boot up and configure itself.</br><br/>
+
+
+<p align="left">
+Step 13: Try or Install<br/>
+  - Select whether you want the disk space to be dynamically allocated, or if you want to have a fixed size.</br>
+  - Select your language</br>
+  - Select where you want to try Ubuntu without making any changes to your local PC, or whether you want to install Ubuntu directly onto your local PC.</br>
+  - Note: if you select Try Ubuntu, you will still have the option to install later.
+
+
+
+<p align="center">
+<img src="https://i.imgur.com/RfOhJCE.png" height="50%" width="50%" alt="Type 2 Hypervisor Steps"/>
+<br />
+<br />
+
+  
+<p align="center">
+You now should be able to use the VM that you have created.<br/>  
+  
+  
+  
+  
 </p>
 
 <!--
